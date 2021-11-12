@@ -1,0 +1,10 @@
+what shoud you test :
+
+-High value features 
+-Edge cases in high value features
+-Things that are easy to break 
+-Basic react components : 
+    -User interfaces
+    -Conditional rendering
+    -Utils/Hooks
+    
